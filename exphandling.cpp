@@ -1,4 +1,4 @@
-//1:Create class for Handling Exception for Student
+djlkjng//1:Create class for Handling Exception for Student
 //Create StudentException class;
 //Create Student class with data members (rollno,name,age)
 //at the time of student creation check age if age<18 then throw exception
